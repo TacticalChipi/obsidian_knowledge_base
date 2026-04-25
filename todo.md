@@ -1,0 +1,3 @@
+- [ ] Back up obsidian to a github repo
+- [ ] Pass all cheatsheets to obsidian repo
+- [ ] Understand mistral vibe capabilities regarding trace of terminal commands executed and execution modes
