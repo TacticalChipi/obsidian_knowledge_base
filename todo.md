@@ -1,3 +1,5 @@
-- [x] Back up obsidian to a github repo
-- [x] Pass all cheatsheets to obsidian repo
+- [x] Back up obsidian to a GitHub repo
+- [x] Pass all cheat sheets to obsidian repo
 - [x] Understand mistral vibe capabilities regarding trace of terminal commands executed and execution modes
+- [ ] Create unit testing for generic pipeline using Vibe
+- [ ] Create integration test for generic pipeline using Vibe
